@@ -1,6 +1,6 @@
 ### Hello! I'm Thomas 👋
 
-I'm a self-taught passionate Data scientist from France 🇫🇷
+I'm a self-taught passionate Data Scientist from France 🇫🇷
 
 
 
