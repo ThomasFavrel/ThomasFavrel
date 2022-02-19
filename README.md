@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello! I'm Thomas 👋
 
+I'm a self-taught passionate Data scientist from France 🇫🇷
+
+[![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasFavrel&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ThomasFavrel/ThomasFavrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
