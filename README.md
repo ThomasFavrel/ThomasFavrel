@@ -1,6 +1,6 @@
 ### Hello! I'm Thomas 👋
 
-I'm a self-taught passionate Data Scientist from France 🇫🇷
+I'm a self-taught passionate Data Scientist student from France 🇫🇷
 
 - 🔭 I’m currently working on Deep Learning models apply to medical images
 - 🌱 I’m currently learning Pytorch / Tensorflow and begin Jax
