@@ -4,6 +4,7 @@ I'm a self-taught passionate Data Scientist student from France 🇫🇷
 
 - 🔭 I’m currently working on Deep Learning models apply to medical images
 - 🌱 I’m currently learning Pytorch / Tensorflow and begin Jax 
+- 💼 I’m looking for a research internship in deep learning
 
 [![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasFavrel&hide=prs,issues,contribs&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 <!--
